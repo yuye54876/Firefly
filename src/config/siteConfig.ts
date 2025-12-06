@@ -116,12 +116,8 @@ export const siteConfig: SiteConfig = {
 				title: "Lovely 天依!",
 				// 主页横幅副标题
 				subtitle: [
-					"In Reddened Chrysalis, I Once Rest",
-					"From Shattered Sky, I Free Fall",
-					"Amidst Silenced Stars, I Deep Sleep",
-					"Upon Lighted Fyrefly, I Soon Gaze",
-					"From Undreamt Night, I Thence Shine",
-					"In Finalized Morrow, I Full Bloom",
+					"华风夏韵 洛水天依",
+					"未来的你会光芒万丈 而我也曾是你万分之一的光",
 				],
 				typewriter: {
 					//打字机开启 → 循环显示所有副标题
@@ -138,8 +134,8 @@ export const siteConfig: SiteConfig = {
 					mobile: false, // 移动端显示横幅图片来源文本
 				},
 				text: {
-					desktop: "Pixiv - 晚晚喵", // 桌面端要显示的来源文本
-					mobile: "Pixiv - KiraraShss", // 移动端要显示的来源文本
+					desktop: "Pixiv", // 桌面端要显示的来源文本
+					mobile: "Pixiv", // 移动端要显示的来源文本
 				},
 				url: {
 					desktop: "https://www.pixiv.net/artworks/135490046", // 桌面端原始艺术品或艺术家页面的 URL 链接
