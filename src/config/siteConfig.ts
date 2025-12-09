@@ -141,6 +141,10 @@ export const siteConfig: SiteConfig = {
 				url: {
 					desktop: "https://www.pixiv.net/artworks/95681846", // 桌面端原始艺术品或艺术家页面的 URL 链接
 					mobile: "https://www.pixiv.net/users/14292311", // 移动端原始艺术品或艺术家页面的 URL 链接
+					//留一下主要壁纸来源的档
+					//恋爱色魔法（苏安Lily）链接 https://weibo.com/1729557592/N3rk8z6R0
+					//MORI森 https://www.pixiv.net/users/14292311
+					//Yolanda https://www.pixiv.net/users/8349252
 				},
 			},
 			navbar: {
