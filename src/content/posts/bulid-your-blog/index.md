@@ -4,7 +4,7 @@ published: 2025-12-19
 updated: 2025-12-21
 description: 利用Firefly主题模和cloudfare pages建立自己blog的一些流程。
 tags: [前端, 开发]
-category: 前端开发
+category: 开发
 draft: false
 
 ---

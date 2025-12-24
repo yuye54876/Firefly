@@ -4,7 +4,7 @@ published: 2025-12-04
 updated: 2025-12-18
 description: 我博客第一篇文章。
 tags: [前端, 开发]
-category: 前端开发
+category: 开发
 draft: false
 
 ---
